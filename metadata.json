@@ -1,0 +1,7 @@
+{
+  "name": "Farm Connect",
+  "description": "A web application to connect farmers with farm workers. Farmers can post job requirements with details like work type, daily wage, and location. Workers can browse and find available jobs in their vicinity. The app supports multiple languages, including English and Marathi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
